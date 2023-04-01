@@ -1,0 +1,33 @@
+.fa-facebook,
+.fa-instagram,
+.fa-linkedin,
+.fa-twitter,
+.fa-youtube,
+.fa-quora {
+  color: #fff;
+  text-decoration: none;
+}
+
+.fa-facebook:hover {
+  color: #0165e1;
+}
+
+.fa-instagram:hover {
+  color: #d6249f;
+}
+
+.fa-linkedin:hover {
+  color: #0165e1;
+}
+
+.fa-twitter:hover {
+  color: #00acee;
+}
+
+.fa-youtube:hover {
+  color: rgb(255, 0, 0);
+}
+
+.fa-quora:hover {
+  color: rgb(255, 0, 0);
+}
